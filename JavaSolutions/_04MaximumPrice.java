@@ -1,4 +1,4 @@
-public class _05MaximumPrice {
+public class _04MaximumPrice {
     public static void main(String[] args) {
         // String arr[] = {
         // "150:Beauty",
