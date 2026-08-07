@@ -20,10 +20,10 @@ public class _07SimqualString {
         // they are decreased while traversing in other string
         for (int i = 0; i < 26; i++) {
             if (freq[i] != 0) {
-                System.out.println("Strings are Not Simqual");
+                System.out.println("strings are not simqual");
                 return;
             }
         }
-        System.out.println("Strings are Simqual");
+        System.out.println("strings are simqual");
     }
 }
