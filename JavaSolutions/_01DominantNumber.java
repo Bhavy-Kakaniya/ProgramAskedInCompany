@@ -1,4 +1,3 @@
-package JavaSolutions;
 /*
  * Dominant Number in an Array
  * A dominant number is a number whose frequency of occurrence in an array is

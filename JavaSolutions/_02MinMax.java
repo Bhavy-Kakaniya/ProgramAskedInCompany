@@ -1,4 +1,3 @@
-package JavaSolutions;
 /*
 Find Maximum, Second Maximum, Minimum, and Second Minimum from an Array
 This program takes an array of integers as input and identifies:

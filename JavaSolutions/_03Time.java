@@ -1,4 +1,3 @@
-package JavaSolutions;
 import java.util.Scanner;
 
 class Time {
