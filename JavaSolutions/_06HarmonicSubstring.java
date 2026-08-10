@@ -1,3 +1,5 @@
+import java.util.*;
+
 public class _06HarmonicSubstring{
     public static void main(String[] args) {
 
