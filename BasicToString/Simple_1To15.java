@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class _1To15 {
+public class Simple_1To15 {
     public static int factorial(int n) {
         int ans = 1;
         for (int i = 1; i <= n; i++) {
