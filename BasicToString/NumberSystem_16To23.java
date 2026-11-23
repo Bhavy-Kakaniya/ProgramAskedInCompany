@@ -130,5 +130,6 @@ public class NumberSystem_16To23 {
         // decimalToOctal(n);
         // distance(10, 18);
         infinite(n);
+        sc.close();
     }
 }
